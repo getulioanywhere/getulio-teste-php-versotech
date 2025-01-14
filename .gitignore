@@ -1,0 +1,5 @@
+.phpintel
+/vendor
+.env
+.idea
+/nbproject
